@@ -1,5 +1,30 @@
 # HealthApp
-Desktop app that calculates the calories. 
+CalorieTracker Desktop Application.
+The Calorie Tracker app is a user-friendly JavaFX application designed to help individuals track their daily calorie intake and manage their nutrition goals effectively.
+
+JavaFX, SceneBuilder
+Libraries: JavaFX, JavaFX FXML
+
+Installation instructions: it requires IntelliJ IDEA and Scene Builder.
+
+Planned App's features list:
+1. User Registration and Login: The app allows users to create a personal account and securely log in to access their individual data. Users can manage their profile information, set personal preferences, and customize their calorie goals.
+2. Calorie Tracking: Users can easily log their food and beverage consumption throughout the day. The app provides an extensive database of foods, including nutritional information, to simplify the tracking process. Users can search for specific items, add them to their daily log, and track their calorie intake in real-time.
+3. Progress Monitoring: Users can visualize their progress through interactive charts and graphs that display their daily, weekly, and monthly calorie intake. The app also provides notifications and reminders to help users stay on track with their goals.
+4. Nutritional Insights: The app provides detailed nutritional insights and analysis to help users understand their eating patterns. It highlights macronutrient distribution, offers recommendations for achieving a balanced diet, and tracks other essential nutrients such as vitamins and minerals.
+5. Personalized Recommendations: The app employs machine learning algorithms to provide personalized recommendations based on the user's historical data, preferences, and goals. These recommendations can include suggested food alternatives, recipe ideas, and nutritional tips.
+
+Completed features:
+1. User Registration and Login
+2. Calorie Tracking
+
+Features yet to be implemented:
+1. Progress Monitoring
+2. Nutritional Insights
+3. Personalized Recommendations
+
+
+Steps:
 
 The first window is a Login window:
 ![image](https://github.com/kysaadatlie/HealthApp/assets/94738149/d8cb50bd-ce7e-4bcc-83b0-dd0eccf4b01e)
