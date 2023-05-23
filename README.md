@@ -3,7 +3,7 @@ CalorieTracker Desktop Application.
 The Calorie Tracker app is a user-friendly JavaFX application designed to help individuals track their daily calorie intake and manage their nutrition goals effectively.
 
 JavaFX, SceneBuilder
-Libraries: JavaFX, JavaFX FXML
+Libraries: JavaFX GUI, JavaFX FXML
 
 Installation instructions: it requires IntelliJ IDEA and Scene Builder.
 
